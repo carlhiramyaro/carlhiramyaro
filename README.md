@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carl Hiram Yaro</h1>
 <h3 align="center">A passionate fullstack web developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.codedex.io/@carlhiramyaro](https://www.codedex.io/@carlhiramyaro)
+- 👨‍💻 All of my projects are available at [https://carl-portfolio-virid.vercel.app/](https://carl-portfolio-virid.vercel.app/)
 
 - 📫 How to reach me **carlhiramyaro1@gmail.com**
 
